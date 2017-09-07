@@ -22,10 +22,10 @@ noremap <Left> <NOP>
 noremap <Right> <NOP>
 
 " Just let me out!
+command WQ wq
+command Wq wq
 command Q q
 command W w
-command Qw qw
-command QW qw
 
 " Theme it up
 colorscheme industry
